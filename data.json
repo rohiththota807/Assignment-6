@@ -1,0 +1,39 @@
+{
+  "emp_details":[
+{
+ "emp_name":"Rohith",
+ "emp_dob":"4-3-2001",
+ "emp_height":"5.5feet", 
+ "City":"Hyderabad",
+ "State":"Telangana"
+},
+{
+ "emp_name":"sri",
+ "emp_dob":"4-5-2000",
+ "emp_height":"5feet", 
+ "City":"Mumbai",
+ "State":"Maharastra"
+},
+{
+ "emp_name":"Hari",
+ "emp_dob":"8-9-1999",
+ "emp_height":"5.8feet", 
+ "City":"Chennai",
+ "State":"Tamil Nadu"
+},
+{
+ "emp_name":"Sunil",
+ "emp_dob":"25-5-1995",
+ "emp_height":"6feet", 
+ "City":"Banglore",
+ "State":"Karnataka"
+},
+{
+ "emp_name":"Nandu",
+ "emp_dob":"15-7-2001",
+ "emp_height":"5.2feet", 
+ "City":"Kolkata",
+ "State":"West Bengal"
+}
+]
+}
